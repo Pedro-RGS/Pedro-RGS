@@ -1,4 +1,4 @@
-# Olá, meu nome é Pedro
+# Pedro Ricardo Gomes de Souza
 **Sou estudante de programação e aluno da UPE - Garanhuns**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ricardo-gomes-de-souza-ab30aa29a/)
