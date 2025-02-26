@@ -9,8 +9,9 @@
 <div style="display: inline_block"><br/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring-boot"/>
- <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql"/>
  <img src="https://cdn.simpleicons.org/javascript" height="40" alt="javascript"/>
+ <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql"/>
+ 
 </div>
 
 ## Contact
