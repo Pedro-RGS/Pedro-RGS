@@ -17,18 +17,14 @@
 <h2>I code with</h2>
 <h3> Backend </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=light)](https://skillicons.dev)
 
 <h3> Frontend </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,vite,tailwind,flutter&theme=dark)](https://skillicons.dev)
 
 <h3> Others tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,docker,postman&theme=light)](https://skillicons.dev)
-
-###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-RGS&show_icons=true&theme=radical&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,docker,postman,maven,figma&theme=light)](https://skillicons.dev)
 
 ###
